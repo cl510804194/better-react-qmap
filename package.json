@@ -1,0 +1,16 @@
+{
+  "name": "better-react-qmap",
+  "version": "1.0.0",
+  "description": "**GitHub源码地址：[戳我](https://github.com/yezihaohao/react-qmap)**",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chengliang",
+  "license": "ISC"
+}
