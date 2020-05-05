@@ -23,7 +23,7 @@ npm install better-react-qmap
 **基础用法**
 
 ```
-import ReactBetterQMap from 'better-react-qmap';
+import ReactQMap from 'better-react-qmap';
 
  <ReactQMap
       center={{ latitude: 30.53786, longitude: 104.07265 }}
